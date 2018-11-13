@@ -1,0 +1,20 @@
+[
+  {
+    "id":1,
+    "src":"../../static/img/focus.jpg",
+    "title":"申冬奥代表团凯旋 机场举行欢迎仪式1",
+    "author":"女神的新衣服1",
+    "des":"这是献给申冬奥代表团凯旋 机场举行欢迎仪式的1",
+    "href":"http://www.baidu.com",
+    "rating":4.2
+  },
+  {
+    "id":2,
+    "src":"../../static/img/focus1.jpg",
+    "title":"申冬奥代表团凯旋 机场举行欢迎仪式2",
+    "author":"女神的新衣服2",
+    "des":"这是献给申冬奥代表团凯旋 机场举行欢迎仪式的2",
+    "href":"http://www.baidu.com",
+    "rating":2.5
+  }
+]
